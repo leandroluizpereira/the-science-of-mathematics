@@ -3,7 +3,7 @@
 
 incógnita = valor desconhecido na equação
 
-incógnita = encontrar a soluçõo de um problema x
+incógnita = encontrar a solução de um problema x
 ```
 a) 2x + 5 = 13   
 fazer a operação inversa 
