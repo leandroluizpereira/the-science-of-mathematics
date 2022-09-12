@@ -1,33 +1,39 @@
-## Equação do primeiro grau 
+## Equação do primeiro grau
 
-icógnita = grandeza a ser determinada na solução de uma equação, de um problema [símb.: x ]. 
 
-ou seja para encontrar o valor de x  
+incógnita = valor desconhecido na equação
 
-a) 2x + 5 = 15
+incógnita = encontrar a soluçõo de um problema x
+
+a) 2x + 5 = 13   
 
 fazer a operação inversa 
 
-positivo se torna negativo
+o positivo se torna negativo 13 - 5 = 8  como está voltando a multiplicação
 
-15 - 5 = 10 
+vira divisão  8/2 = 4 
 
-multiplicaçõa se torna divisão 
-
-10 / 2 = 5
-
-x = 5
-
-aqui temos duas icógnita que o x e 2x então somamos eles primeiro  
-
-e depois fazemos os cálculos 
+então x = 4
 
 b) x + 2x + 3 = 18 
 
- 3x + 3 = 18 
+quando a duas ou mais incógnita podemos somar  que são x + 2x 
+
+ 3x + 3 = 18
  
- 18 - 3 = 15 
- 
- 15 / 3 = 5 
- 
- x = 5 
+18 - 3 = 15 
+
+15 / 3 = 5 
+
+x = 5 
+
+c ) $\frac{x}{2}$ + 5 = 22
+
+    22 - 5 = 17 
+    
+    17 x 2 = 34 
+    
+    x = 34 
+    
+d) 30 + 7x = 84 - 2x 
+
