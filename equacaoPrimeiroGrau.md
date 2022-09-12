@@ -15,7 +15,7 @@ então x = 4
 ```
 b) x + 2x + 3 = 18 
 
-quando a duas ou mais incógnita podemos somar  que são x + 2x 
+quando a duas ou mais incógnita somamos primeiro que são x + 2x 
 
 3x + 3 = 18
 18 - 3 = 15
